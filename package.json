@@ -2,6 +2,10 @@
     "name": "nacht",
     "displayName": "Nacht",
     "description": "Dark color theme",
+    "repository": {
+        "url": "https://github.com/Yevs/nacht"
+    },
+    "publisher": "Yevs",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.45.0"
