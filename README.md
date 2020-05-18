@@ -2,7 +2,7 @@
 
 Nacht is a color theme for VS code.
 
-![Example](/images/example.png)
+![Example](https://github.com/Yevs/nacht/blob/master/images/example.png?raw=true)
 
 ## Inspiration
 
