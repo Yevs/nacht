@@ -3,6 +3,7 @@
     "displayName": "Nacht",
     "description": "Dark color theme",
     "repository": {
+        "type": "git",
         "url": "https://github.com/Yevs/nacht"
     },
     "publisher": "Yevs",
@@ -10,9 +11,13 @@
     "engines": {
         "vscode": "^1.45.0"
     },
+    "icon": "images/icon.svg",
     "categories": [
         "Themes"
     ],
+    "author": {
+        "name": "Yevs"
+    },
     "contributes": {
         "themes": [
             {
@@ -21,5 +26,14 @@
                 "path": "./themes/Nacht Color Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "dark",
+        "color",
+        "theme",
+        "nacht",
+        "night",
+        "not bright",
+        "focus"
+    ]
 }
